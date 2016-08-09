@@ -1,4 +1,4 @@
-﻿namespace UniLibs
+﻿namespace UniLibs.UWP
 {
     public class UWP
     {
